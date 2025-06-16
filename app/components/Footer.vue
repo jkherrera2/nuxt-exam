@@ -3,7 +3,7 @@
 		<div class="text-caption font-weight-regular opacity-60">
 			A Front End Developer Exam designed to test proficiency in front-end development using Nuxt,
 			ES2020, Vuetify, GraphQL, Pinia, Vue3 Composition API, and TypeScript. This webpage is created by
-			John Kenneth Herrera and submitted to Apollo Lightings Inc.
+			John Kenneth Herrera and submitted to Apollo Systems.
 		</div>
 
 		<v-divider></v-divider>
