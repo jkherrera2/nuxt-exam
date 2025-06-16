@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Nuxt 3 / Vuetify / Graphql / Pinia Starter
 
 This template incorporates the utilization of Nuxt3, Vuetify, GraphQL, and Pinia to create a robust foundation
@@ -33,3 +34,6 @@ pnpm dev
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+=======
+# nuxt-exam
+>>>>>>> 2e0e16cfa75c73e6646493f610a8fab00b05ca94
