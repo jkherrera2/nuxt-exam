@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Apollo Systems – Front End Developer Exam
 
 This project was developed as part of the **Apollo Systems Front End Developer Exam**, designed to assess proficiency in **Nuxt 3**, **Vuetify**, **GraphQL**, **Pinia**, the **Vue 3 Composition API**, and **TypeScript**.
