@@ -1,21 +1,8 @@
-<<<<<<< HEAD
-# Nuxt 3 / Vuetify / Graphql / Pinia Starter
+# Apollo Systems – Front End Developer Exam
 
-This template incorporates the utilization of Nuxt3, Vuetify, GraphQL, and Pinia to create a robust foundation
+This project was developed as part of the **Apollo Systems Front End Developer Exam**, designed to assess proficiency in **Nuxt 3**, **Vuetify**, **GraphQL**, **Pinia**, the **Vue 3 Composition API**, and **TypeScript**.
 
-### To learn more, you can check out:
-
--[Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction)
-
--[Vuetify 3 documentation](https://next.vuetifyjs.com/)
-
--[GraphQL documentation](https://graphql.org/)
-
--[Pinia documentation](https://pinia.vuejs.org/)
-
-## Linters
-
-The template has been pre-configured with state-of-the-art linters like eslint, stylelint, prettier, and commitizen to bolster code legibility and standardization
+The exam includes a series of tasks that evaluate understanding and practical application of these technologies, with a strong emphasis on code quality, readability, performance, and best practices.
 
 ## Setup
 
@@ -32,8 +19,3 @@ Start the development server on http://localhost:3000
 ```bash
 pnpm dev
 ```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
-=======
-# nuxt-exam
->>>>>>> 2e0e16cfa75c73e6646493f610a8fab00b05ca94
